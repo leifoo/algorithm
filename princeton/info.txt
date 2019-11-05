@@ -1,0 +1,14 @@
+# Algorithm, Part I on coursera
+https://www.coursera.org/learn/algorithms-part1
+
+## Booksite
+https://algs4.cs.princeton.edu/home/
+
+## Textbok
+Algorithms, 4th edition by Sedgewick and Wayne
+https://drive.google.com/open?id=1BcvPW4E2otrWgbfMx7ZYBrMtJHrD44SH
+
+## Slides
+https://algs4.cs.princeton.edu/lectures/
+
+
